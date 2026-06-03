@@ -1,0 +1,1 @@
+{"encoder_id": "sentence-transformers/all-MiniLM-L6-v2", "max_seq_len": 256, "in_dim": 384, "a_min": 0.05, "a_max": 4.0, "b_mean": -0.2221885323524475, "b_std": 1.1738715171813965, "la_mean": 0.1960030496120453, "la_std": 0.23774103820323944}

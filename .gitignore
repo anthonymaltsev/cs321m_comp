@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Generated artifacts / caches (regenerable from pipeline scripts)
+irt_submission/artifacts/
+*.npz
+*.npy
+*.pt
+
+# Build outputs
+*.zip
